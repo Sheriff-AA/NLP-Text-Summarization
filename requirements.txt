@@ -19,4 +19,5 @@ Django==4.2.16
 djangorestframework
 uvicorn
 Jinja2
+decouple
 -e .
