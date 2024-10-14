@@ -20,4 +20,5 @@ djangorestframework
 uvicorn
 Jinja2
 decouple
+evaluate
 -e .
